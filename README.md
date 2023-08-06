@@ -26,3 +26,6 @@ sudo pacman -S python3
 + run the file with ```python main.py```
 + copy the path of where that need to be sorted are and paste it in the prompt when it asks you ``` Enter Path: ```
 + the program wile automatically sort based on the file extentions, creating a folder corresponding with the file extention
+
+
+this program was made in 5 mins beacuse i was bored 💀
