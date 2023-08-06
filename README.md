@@ -1,5 +1,5 @@
 # file-sorter
-a small fast file sorter build in python
+a small, fast file sorter built in python
 
 ## install python
 make sure you have python installed to run this script
